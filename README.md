@@ -1,7 +1,7 @@
 # Myntra-Clone
 
 
-👗 A front-end clone of Myntra, showcasing various categories and a modern shopping experience.
+👗 A front-end clone of Myntra, showcasing various categories and a modern shopping experience.Responsive
 
 ## Demo
 🔗 [Live Demo](https://garvvirmani.github.io/Myntra-Clone/)
